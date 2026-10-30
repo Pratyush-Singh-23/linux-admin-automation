@@ -1,0 +1,14 @@
+# Generated monitoring reports
+reports/*.txt
+
+# Application logs
+logs/*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Environment and secret files
+.env
+*.pem
+*.key
